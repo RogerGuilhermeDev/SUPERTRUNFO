@@ -131,5 +131,5 @@ function exibirCartaMaquina(){
  divCartaMaquina.innerHTML = moldura + nome + tagHTML + opcoesTexto + "</div>"
 
 }
-      
+      // corrigir os ifs depois 
  
